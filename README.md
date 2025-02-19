@@ -171,7 +171,7 @@ The solution leverages advanced Business Intelligence (BI) techniques, data anal
 
 ---
 
-## **📌 Repository Structure**  
+## Repository Structure  
 
 📂 **/Data/** → Contains survey responses, financial models & analytics reports.  
 📂 **/Media Files/** → Interactive BI dashboards, sentiment analysis & cost reduction forecasts.  
@@ -180,7 +180,7 @@ The solution leverages advanced Business Intelligence (BI) techniques, data anal
 
 ---
 
-## **📌 Tools and Technologies Used**  
+## Tools and Technologies Used
 
 - **Data Analytics:** Power BI  
 - **Business Intelligence:** Financial modeling in Excel & PowerPoint visualizations.  
@@ -190,7 +190,7 @@ The solution leverages advanced Business Intelligence (BI) techniques, data anal
 
 ---
 
-## **📌 Key Takeaways for Executives And Decision-Makers**  
+## Key Takeaways for Executives And Decision-Makers 
 
 🚀 **Strategic Digital Adoption** → Aligns AI, cybersecurity & data analytics for business efficiency.  
 🚀 **Financial ROI Model** → Justifies investments with a clear pathway to **$1B market expansion**.  
@@ -199,7 +199,7 @@ The solution leverages advanced Business Intelligence (BI) techniques, data anal
 
 ---
 
-## **📌 Next Steps And Business Recommendations**  
+## Next Steps And Business Recommendations 
 
 🔹 **Immediate Action Items:**  
 ✅ **Approve $50M investment in AI & cybersecurity transformation**.  
@@ -213,7 +213,7 @@ The solution leverages advanced Business Intelligence (BI) techniques, data anal
 
 ---
 
-## **📌 Contact Information**  
+## Contact Information  
 
 📌 **Project Lead:** *Israel Josiah, Data & Business Intelligence Specialist*  
 📌 **Contact:** *[israeljvow@gmail.com]*  
